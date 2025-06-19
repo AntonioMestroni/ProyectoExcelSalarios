@@ -32,7 +32,7 @@ Esta hoja permite obtener información detallada de un empleado ingresando su ID
 
 Tablero interactivo que muestra la información más relevante del análisis. Presenta indicadores clave de desempeño (KPIs), gráficos informativos y visualizaciones dinámicas que permiten una comprensión rápida y efectiva de los datos.
 
-![Imagen del dashboard](assets/1744046146537.jpg)
+![Imagen del dashboard](assets/1744046145635.jpg)
 
 ## 🚀 Conclusión
 
