@@ -20,19 +20,19 @@ En esta hoja se encuentra la base de datos procesada, con las columnas más rele
 
 Hoja interactiva diseñada para responder preguntas clave relacionadas con el análisis. Permite variar parámetros como puestos de trabajo, tamaño de la empresa, modalidad de trabajo y nivel de experiencia, proporcionando respuestas e información detallada basada en las selecciones realizadas.
 
-![Imagen del dashboard](1744046144816.jpg)
+![Imagen del dashboard](assets/1744046144816.jpg)
 
 ### 🔹 Tabla de Búsqueda
 
 Esta hoja permite obtener información detallada de un empleado ingresando su ID. Muestra datos importantes e informativos como el nivel de experiencia, país de residencia, país de la empresa que lo contrata, tipo de empleo, modalidad de trabajo y salario, entre otros.
 
-![Imagen del dashboard](1744046146537.jpg)
+![Imagen del dashboard](assets/1744046146537.jpg)
 
 ### 🔹 Dashboard
 
 Tablero interactivo que muestra la información más relevante del análisis. Presenta indicadores clave de desempeño (KPIs), gráficos informativos y visualizaciones dinámicas que permiten una comprensión rápida y efectiva de los datos.
 
-![Imagen del dashboard](1744046146537.jpg)
+![Imagen del dashboard](assets/1744046146537.jpg)
 
 ## 🚀 Conclusión
 
